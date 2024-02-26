@@ -12,7 +12,7 @@
 
 1. Clone the code:
 
-    `$ git clone https://gitlab.com/chambana/ros-dashboard.git`     
+    `$ git clone https://midnightpen.com/dashboard.git`     
 
 2. Install the Python dependencies:
 
