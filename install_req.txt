@@ -1,0 +1,12 @@
+pip install --upgrade setuptools
+pip install --upgrade pip
+pip install brotli==1.0.7
+
+git clone https://gitlab.com/chambana/ros-dashboard.git
+
+cd ros-dashboard
+sudo pip install -r requirements.txt
+
+sudo pip install dash
+sudo pip install dash-daq
+sudo pip install dash-bootstrap-components==0.11.1
